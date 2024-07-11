@@ -9,6 +9,7 @@
 - Classe equação executa o cálculo das raízes da equação do segundo grau utilizando a fórmula de Bháskara.
 
 ## Dependências
+
 - express,
 - cors.
 
