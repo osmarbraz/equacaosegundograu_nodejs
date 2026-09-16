@@ -33,8 +33,8 @@
 ## Serviços
 
  - Serviço da rota inicial VIA GET.
-    http://localhost:8000        
+    `http://localhost:8000`       
 
  - Serviço de cálculo das raízes via GET.
-    substitua \<VALORA\>, \<VALORB\> \<VALORC\> e pelos valores dos coeficientes da equação.<br>
-    http://localhost:8000/raizes/<VALORA>/<VALORB>/<VALORC>
+    Substitua `<VALORA>`, `<VALORB>` e `<VALORC>` pelos valores dos coeficientes da equação.
+    `http://localhost:8000/raizes/<VALORA>/<VALORB>/<VALORC>`
